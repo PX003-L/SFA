@@ -1,7 +1,7 @@
 # SFA
 This repository contains the PyTorch code for the manuscript:
 
-Enhancing Adversarial Transferability via Curvature-Aware Penalization
+Enhancing Adversarial Transferability via Flat Sample Selection
 
 
 ![pipeline](https://github.com/user-attachments/assets/d962b847-19ad-4d7d-b60b-84593817da05)
