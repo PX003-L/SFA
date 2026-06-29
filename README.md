@@ -4,7 +4,7 @@ This repository contains the PyTorch code for the manuscript:
 Enhancing Adversarial Transferability via Flat Sample Selection
 
 
-![pipeline]([https://github.com/PX003-L/SFA/blob/2747c84f0225af73a3501884bf7b743a7eac2c6b/big5.pdf])
+<img width="1999" height="1026" alt="big" src="https://github.com/user-attachments/assets/94632044-b509-40b5-928b-99806c7b42fa" />
 
 
 ## Requirements
